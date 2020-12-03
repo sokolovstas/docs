@@ -103,7 +103,7 @@ When Drone executes your build, by default, it executes all pipelines and all st
     - push
     - pull_request
   
-  ---
+  &#45;&#45;&#45;
   kind: pipeline
   type: docker
   name: deploy
